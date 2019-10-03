@@ -1,5 +1,5 @@
 # Homework 2 - Socket Programming
-** Ellie Parobek, Winston Chang, Isabella Sturm **
+**Ellie Parobek, Winston Chang, Isabella Sturm**
 
 
 ## Server Instructions
